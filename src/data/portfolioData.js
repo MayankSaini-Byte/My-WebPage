@@ -52,7 +52,7 @@ export const skills = [
     items: [
       { name: 'Python', level: 90 },
       { name: 'SQL', level: 40 },
-      { name: 'JavaScript', level30 }
+      { name: 'JavaScript', level: 30 }
     ],
   },
   {
