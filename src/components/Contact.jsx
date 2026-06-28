@@ -74,8 +74,8 @@ export default function Contact() {
             className="flex sm:justify-end sm:pt-12"
           >
             <a
-              href="./resume.pdf"
-              download="resume.pdf"
+              href="/resume.pdf"
+              download="Mayank_Saini_Resume.pdf"
               className="group relative flex w-full max-w-sm flex-col overflow-hidden rounded-[16px] border border-indigo-500/20 bg-[#0D0D1A] p-5 transition-all duration-300 hover:-translate-y-1 hover:border-indigo-400 hover:shadow-[0_0_20px_rgba(79,70,229,0.2)] sm:w-80"
             >
               {/* Card Header */}
